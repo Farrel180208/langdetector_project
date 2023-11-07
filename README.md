@@ -1,0 +1,1 @@
+# langdetector_project
